@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = benedicte.coulon@wanadoo.fr
+	name = Benedicte Coulon
